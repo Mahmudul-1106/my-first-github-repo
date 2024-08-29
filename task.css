@@ -32,3 +32,10 @@ header{
     /* display:inline; */
     
 }
+#ima{
+    border: 2px solid tomato;
+    padding: auto;
+    background-image: url(image/solid.jpg);
+    background-repeat: repeat;
+    
+}

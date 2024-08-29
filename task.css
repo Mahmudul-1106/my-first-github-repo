@@ -34,8 +34,8 @@ header{
 }
 #ima{
     border: 2px solid tomato;
-    padding: auto;
-    background-image: url(image/solid.jpg);
-    background-repeat: repeat;
+    padding: 10px;
+    /* background-image: url(image/solid.jpg); */
+    /* background-repeat: repeat; */
     
 }
